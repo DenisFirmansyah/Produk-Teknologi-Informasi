@@ -7,10 +7,13 @@
 ## Intro
 Pada kesempatan kali ini saya ingin membahas mengenai pembuatan game berbasis 2D Platformer. Kita akan membuat game sederhana dimana player dapat menggerakkan karakter dan menyerang musuh.
 
+## Analisis : Pengenalan
+Semakin maraknya dunia digital saat ini, salah satu di antaranya ada suatu program yang biasa dinikmati oleh semua kalangan usia, baik itu usia muda, remaja, maupun dewasa. Program yang tersebut diciptakan untuk menghibur, mengedukasi, atau bahkan memberikan sensasi yang berbagai macam. Program yang diciptakan tersebut biasa disebut sebagai *game* atau 'permainan'. Dalam laman ini, saya akan membahas proyek yang akan/telah saya buat yang bertemakan 2D Platformer.
+
 ## Analisis : Branding
 Pada tahap ini kita mengeksplorasi *branding* dari sistem yang dibuat. *Branding* meliputi:
 - Merk : **Sword and Traps** 
-- Tagline : melawan musuh dan menghindari jebakan
+- Tagline : Melawan musuh dan menghindari jebakan
 - Campaign : Bagaimana membuat game yang membuat playernya berpikir cermat untuk menangani tantangan yang diberikan
 - Target user :
   - Usia 7+ 
